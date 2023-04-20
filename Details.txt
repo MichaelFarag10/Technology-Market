@@ -1,0 +1,27 @@
+لذهاب لملفات
+Models
+App/Models
+
+لذهاب لملفات الجداول
+database\migrations
+
+لتعديل بيانات الادمن عند تنسيب الداتا بيز
+database/seeders/AdminSeeder.php
+
+
+لذهاب الي Controller
+
+App\Http\Controllers
+
+
+لذهاب الي ملفات الواجه الامامية للادمن
+
+resource\views\admin
+
+لذهاب الي ملفات الواجه الامامية لنظام
+
+resource\views\home
+
+لذهاب الي ملف المسارت
+
+routes\web.php
